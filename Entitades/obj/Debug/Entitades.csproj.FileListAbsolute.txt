@@ -1,0 +1,6 @@
+C:\Users\Paola\source\repos\ClaseGenerica\Entitades\obj\Debug\Entitades.csproj.CoreCompileInputs.cache
+C:\Users\Paola\source\repos\ClaseGenerica\Entitades\bin\Debug\Entitades.dll
+C:\Users\Paola\source\repos\ClaseGenerica\Entitades\bin\Debug\Entitades.pdb
+C:\Users\Paola\source\repos\ClaseGenerica\Entitades\obj\Debug\Entitades.dll
+C:\Users\Paola\source\repos\ClaseGenerica\Entitades\obj\Debug\Entitades.pdb
+C:\Users\Paola\source\repos\ClaseGenerica\Entitades\obj\Debug\Entitades.csprojAssemblyReference.cache
